@@ -1,0 +1,10 @@
+To test this Product Just Call below function and integer value as a parameter which determines the number of teams in the game.
+
+teams($a)
+
+$a is number of teams in the game.
+Example:
+
+1. teams(1);
+2. teams(14);
+3. teams(4);
